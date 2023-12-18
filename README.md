@@ -63,6 +63,7 @@ Visit `http://localhost:3000` in your browser to see StreamPulse in action.
 ## Technologies Used
 - React.js
 - Node.js
+- TypeScript
 - Agora SDK
 - HTML5 and TailwindCss
 - WebSocket for real-time communication
